@@ -1,5 +1,5 @@
 import streamlit as st
-from utils.style_transfer import run_style_transfer
+from style_transfer import run_style_transfer
 from io import BytesIO
 
 st.set_page_config("Neural Style Transfer", page_icon="🎨")
