@@ -1,9 +1,10 @@
-dependencies:
-  - python=3.12
-  - pip
-  - pip:
-    - streamlit==1.35.0
-    - transformers==4.41.2
-    - torch
-    - PyPDF2
-    - Pillow
+
+python=3.12
+pip
+pip:
+streamlit==1.35.0
+transformers==4.41.2
+torch
+PyPDF2
+Pillow
+
